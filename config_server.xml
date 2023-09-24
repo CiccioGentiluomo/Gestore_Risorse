@@ -1,0 +1,9 @@
+<config>
+    <db>
+        <uri>mongodb://localhost:27017</uri>
+        <dbname>db_risorse</dbname>
+    </db>
+    <server>
+        <port>30457</port>
+    </server>
+</config>
