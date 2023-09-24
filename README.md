@@ -1,1 +1,0 @@
-# Gestore_Risorse
